@@ -33,4 +33,5 @@ end
 
 return {
   get_item = get_item,
+  get_mode = get_mode,
 }
